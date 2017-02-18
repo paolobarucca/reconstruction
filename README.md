@@ -1,5 +1,5 @@
 =========================================================================
-STATISTICAL RECONSTRUCTION OF GRAPHS
+STATISTICAL RECONSTRUCTION OF NETWORKS
 =========================================================================
 
 ## Features:
