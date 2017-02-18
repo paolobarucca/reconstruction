@@ -1,67 +1,41 @@
 =========================================================================
-Megam cloud platform [https://www.megam.io](https://www.megam.io)
+Personal Website [https://paolobarucca.com/](https://paolobarucca.com/)
 =========================================================================
-
-[![Build Status](https://travis-ci.org/indykish/nilavu.png?branch=0.8)](https://travis-ci.org/megamsys/nilavu)
-
-Nilavu is a [Rails 4.2.3](http://guides.rubyonrails.org/) browser based user interface for [Megam cloud platform](https://www.megam.io).
 
 ## Features:
 
-* Try our developer edition to get a feel of the code [https://console.megam.io](https://console.megam.io)
-
-* Launch apps, services(db, queue, nosql..) in cloud in seconds with continious integration.
-
-* Predict using the  analytics service
-
-* Watch realtime logs of the launched apps in cloud
-
-* Built in metering monitoring
-
-* Launch a micro service (public or on premise)
-
+* Sample maximum probability networks compatible with a set of constraints
 
 
 ## Requirements
 
-> [Ruby 2.2.x](http://ruby-lang.org)
-> [Riak](http://docs.basho.com)
-
-
-## Dashboard
-
-The UX/UI design was done by [enixel](http://enixel.com).
-
-![A peek of our awesome Dashboard](https://github.com/megamsys/nilavu/blob/0.5/public/nilavu_dash.png)
+> [Matlab7.6](https://www.mathworks.com/content/dam/mathworks/tag-team/Objects/t/72887_92020v00Cleve_Growth_MATLAB_MathWorks_Two_Decades_Jan_2006.pdf)
 
 
 
 ## Getting Started
 
-* Try our developer edition [https://console.megam.io](https://console.megam.io)
+* Download and run [example.m]
 
 
 ### Documentation
 
-Refer [documentation for onpremise enterprise edition] (http://docs.megam.io)
+* Check this paper [http://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022]http://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022)
 
 
 
-We are glad to help if you have questions, or request for new features..
+I am glad to help if you have questions, or request for new features..
 
-[twitter @megamsys](http://twitter.com/megamsys) [email support@megam.io](<support@megam.io>)
+[twitter @PaoloBarucca](http://twitter.com/paolobarucca) [email baruccap@gmail.com](<baruccap@gmail.com>)
 
 ### Contributing
 
-Glad to see you contributing for us.
+Glad to see you contributing for the code.
 
 ```
 
-git clone https://github.com/megamsys/nilavu.git
+git clone https://github.com/paolobarucca/reconstruction.git
 
-cd nilavu
-
-cp ./hooks ./git/.hooks
 
 ```
 
@@ -69,21 +43,16 @@ cp ./hooks ./git/.hooks
 
 |                      |                                          |
 |:---------------------|:-----------------------------------------|
-| **Author:**          | Rajthilak (<rajthilak@megam.io>)
-|                      | Thomas Alrin (<thomasalrin@megam.io>)
-|	    	       	       | KishorekumarNeelamegam (<nkishore@megam.io>)
-|		          	       | Yeshwanth Kumar (<getyesh@megam.io>)
-| **Copyright:**       | Copyright (c) 2013-2016 Megam Systems.
-| **License:**         | Apache License, Version 2.0
+| **Author:**          | Paolo Barucca (<baruccap@gmail.com>)
+| **Copyright:**       | 2017 Paolo Barucca
+| **License:**         | GNU-GPL 
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
