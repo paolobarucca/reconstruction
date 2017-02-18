@@ -1,5 +1,5 @@
 =========================================================================
-STATISTICAL RECONSTRUCTION OF GRAPHS SUBJECTED TO TOPOLOGICAL CONSTRAINTS
+STATISTICAL RECONSTRUCTION OF GRAPHS
 =========================================================================
 
 ## Features:
