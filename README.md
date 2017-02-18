@@ -20,13 +20,13 @@ Personal Website [https://paolobarucca.com/](https://paolobarucca.com/)
 
 ### Documentation
 
-* Check this paper [http://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022]http://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022)
+* Check this paper [http://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022] (http://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022)
 
 
 
 I am glad to help if you have questions, or request for new features..
 
-[twitter @PaoloBarucca](http://twitter.com/paolobarucca) [email baruccap@gmail.com](<baruccap@gmail.com>)
+[twitter @PaoloBarucca] (http://twitter.com/paolobarucca) [email] (<baruccap@gmail.com>)
 
 ### Contributing
 
