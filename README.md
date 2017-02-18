@@ -12,21 +12,22 @@ Personal Website [https://paolobarucca.com/](https://paolobarucca.com/)
 > [Matlab7.6](https://www.mathworks.com/content/dam/mathworks/tag-team/Objects/t/72887_92020v00Cleve_Growth_MATLAB_MathWorks_Two_Decades_Jan_2006.pdf)
 
 
-
 ## Getting Started
 
-* Download and run [example.m]
+* Download and run [example.m] (<example.m>)
 
 
 ### Documentation
 
-* Check this paper [http://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022] (http://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022)
+* Check reconstructionDoc.pdf
+
+* Check this paper [Enhanced reconstruction of weighted networks from strengths and degrees] (http://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022)
 
 
 
 I am glad to help if you have questions, or request for new features..
 
-[twitter @PaoloBarucca] (http://twitter.com/paolobarucca) [email] (<baruccap@gmail.com>)
+[twitter @PaoloBarucca] (http://twitter.com/paolobarucca) 
 
 ### Contributing
 
