@@ -19,7 +19,7 @@ STATISTICAL RECONSTRUCTION OF NETWORKS
 
 ### Documentation
 
-* Check [notes/doc.pdf]  (<doc.pdf>)
+* Check [notes/doc.pdf]  (<notes/doc.pdf>)
 
 * Check this paper [Enhanced reconstruction of weighted networks from strengths and degrees] (http://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022)
 
