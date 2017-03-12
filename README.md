@@ -12,11 +12,6 @@ STATISTICAL RECONSTRUCTION OF NETWORKS
 > [Matlab7.6](https://www.mathworks.com/content/dam/mathworks/tag-team/Objects/t/72887_92020v00Cleve_Growth_MATLAB_MathWorks_Two_Decades_Jan_2006.pdf)
 
 
-## Getting Started
-
-* Download and run [example.m] (<example.m>)
-
-
 ### Documentation
 
 * Check [notes/doc.pdf]  (<notes/doc.pdf>)
