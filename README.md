@@ -1,5 +1,5 @@
 =========================================================================
-STATISTICAL RECONSTRUCTION OF NETWORKS
+STATISTICAL RECONSTRUCTION OF NETWORKS [WIP]
 =========================================================================
 
 ## Features:
